@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.body {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(Assets/Images/Velmor\ Seafood\ Paella.jpg);
+        background-size: cover;
+        background-position: center;
+}
+.menu container {
+        max-width: 900px;
+            margin: 40px auto;
+                background-color: rgba(255, 255, 255, 0.95);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+
+
+}
